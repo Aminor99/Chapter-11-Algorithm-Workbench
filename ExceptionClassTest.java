@@ -1,6 +1,6 @@
 //Name: Asia Minor
 //Date: 4-26-19
-//Purpose: Algorithm Workbench chapter 11 number 5
+//Purpose: Algorithm Workbench chapter 11 number 5 and 6?
 //Write an exception class that can be thrown when a negative number is passed to a method
 
 import java.util.Scanner;
